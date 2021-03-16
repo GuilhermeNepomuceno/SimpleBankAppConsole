@@ -1,0 +1,16 @@
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\bin\Debug\net5.0\BankConsoleApp.exe
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\bin\Debug\net5.0\BankConsoleApp.deps.json
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\bin\Debug\net5.0\BankConsoleApp.runtimeconfig.json
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\bin\Debug\net5.0\BankConsoleApp.runtimeconfig.dev.json
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\bin\Debug\net5.0\BankConsoleApp.dll
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\bin\Debug\net5.0\ref\BankConsoleApp.dll
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\bin\Debug\net5.0\BankConsoleApp.pdb
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\obj\Debug\net5.0\BankConsoleApp.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\obj\Debug\net5.0\BankConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\obj\Debug\net5.0\BankConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\obj\Debug\net5.0\BankConsoleApp.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\obj\Debug\net5.0\BankConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\obj\Debug\net5.0\BankConsoleApp.dll
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\obj\Debug\net5.0\ref\BankConsoleApp.dll
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\obj\Debug\net5.0\BankConsoleApp.pdb
+C:\Users\Guilherme\Desktop\Workspace  C#\BankConsoleApp\obj\Debug\net5.0\BankConsoleApp.genruntimeconfig.cache
